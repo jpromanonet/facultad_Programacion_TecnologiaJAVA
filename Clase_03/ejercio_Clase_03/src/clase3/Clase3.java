@@ -9,7 +9,7 @@ package clase3;
 
 /**
  *
- * @author Pared Baez Martin Jose<paredbaez.martin@gmail.com>
+ * @author Juan Pablo Romano<programming@jpromano.net>
  */
 public class Clase3 {
 

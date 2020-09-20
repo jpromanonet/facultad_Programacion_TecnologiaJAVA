@@ -7,7 +7,7 @@ package ejercicioalumno;
 
 /**
  *
- * @author Pared Baez Martin Jose<paredbaez.martin@gmail.com>
+ * @author Juan Pablo Romano<programming@jpromano.net>
  */
 public class Alumno {
 

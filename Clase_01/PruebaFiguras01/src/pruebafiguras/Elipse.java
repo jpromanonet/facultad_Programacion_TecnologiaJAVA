@@ -8,7 +8,7 @@ package pruebafiguras;
 
 /**
  * 
- * @author Pared Baez Martin Jose<paredbaez.martin@gmail.com>
+ * @author Juan Pablo Romano<programming@jpromano.net>
  */
 public class Elipse extends FiguraGeometrica {
 
